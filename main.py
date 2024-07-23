@@ -1,2 +1,2 @@
 print('get up')
-print('go work')
+print('go work ggg')
